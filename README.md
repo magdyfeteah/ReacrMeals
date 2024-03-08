@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
     ```bash
     npm install
     ```
-4- Start the development server:
+4. Start the development server:
     ```bash
     npm start
     ```
